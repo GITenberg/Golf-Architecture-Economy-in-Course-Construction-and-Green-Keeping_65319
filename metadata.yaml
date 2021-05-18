@@ -1,0 +1,31 @@
+_repo: Golf-Architecture-Economy-in-Course-Construction-and-Green-Keeping_65319
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Colt, Henry Shapland
+    gutenberg_agent_id: '53286'
+    url: http://www.gutenberg.org/2009/agents/53286
+creator:
+  author:
+    agent_name: Mackenzie, Donald A. (Donald Alexander)
+    alias: Mackenzie, Donald Alexander
+    birthdate: 1873
+    deathdate: 1936
+    gutenberg_agent_id: '3303'
+    url: http://www.gutenberg.org/2009/agents/3303
+    wikipedia: https://en.wikipedia.org/wiki/Donald_Alexander_Mackenzie
+description: ''
+gutenberg_issued: '2021-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Golf Architecture
+
+  Economy in Course Construction and Green-Keeping'
+url: http://www.gutenberg.org/ebooks/65319
